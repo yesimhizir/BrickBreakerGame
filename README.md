@@ -1,2 +1,2 @@
-# 2022_Spring_302_Avengers
+Brick Breaker Game for COMP302: Software engineering course (Spring 2022)
 
